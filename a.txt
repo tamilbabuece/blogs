@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is to test conflicts.
+=======
+testing file created by tamil
+>>>>>>> 1b7f96b129fc54d8765057e743b6fa434b1df977
